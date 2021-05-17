@@ -1,4 +1,4 @@
-# mobileserviceproject
+# MobileServiceProject
 
 This was a course project to create a GUI-less java application to model the workflow of a billing system of a mobile service company in a simple way.
 
