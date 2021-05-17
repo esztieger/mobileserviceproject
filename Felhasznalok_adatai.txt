@@ -1,0 +1,40 @@
+Király Dezső;3768 Hidvégardó, Baross tér 63;7095867;SMSMax
+Szőke Flórián;9725 Kőszegdoroszló, Belgrád utca 98;9729948;Alap
+Antal Henrik;2644 Borsosberény, Hegedűs Gyula utca 2;9733673;MobilNet
+Takács József;9600 Sárvár, Victor Hugo utca 24;7639197;SMSMax
+Miksa Pál;3524 Miskolc, Dózsa György út 11;9303339;MobilNet
+Bács Donát;3416 Tard, Dózsa György út 76;2077939;Alap
+Szücs Zsolt;5525 Füzesgyarmat, Veres Pálné utca 77;4435563;MobilNet
+Tamás Miklós;8731 Tikos, Nánási út 46;6859900;MobilNet
+Zobor Gergely;8353 Zalaszántó, Izabella utca 29;5220256;Alap
+Surány Zoltán;1121 Budapest, Csabai kapu 58;6882338;MobilNet
+Szilágyi Emese;1065 Budapest, Csabai kapu 99;5444781;SMSMax
+Mészáros Brigitta;4532 Nyírtura, Budaörsi út 4;8182861;MobilNet
+Orsós Zsófia;2890 Tata, Munkácsy Mihály út 97;1756523;Alap
+Barna Éva;7952 Velény, Agip utca 52;1664776;MobilNet
+Szalai Kíra;8342 Óhíd, Izabella utca 83;4087643;MobilNet
+Pap Nóra;7144 Decs, Tas vezér utca 99;1677351;SMSMax
+Balázs Diána;8256 Ábrahámhegy, Rákóczi út 89;5157091;MobilNet
+Jónás Szimonetta;9917 Halogy, Kis Diófa utca 39;7733810;Alap
+Dudás Gréta;6444 Kéleshalom, Dayka Gábor utca 75;6637318;SMSMax
+Székely Szabina;8743 Zalaszabar, Kálmán Imre utca 90;5921024;MobilNet
+Szabó Valentin;3735 Kánó, Baross tér 55;8090569;MobilNet
+Tóth Gergely;4763 Ura, Bem út 34;1005173;SMSMax
+Katona János;4486 Kétérköz, Budaörsi út 2;2156485;Alap
+Halász Rajmund;7922 Somogyviszló, Kárpát utca 88;7684743;SMSMax
+Dudás Gyula;9752 Kenéz, Belgrád út 21;5260291;Alap
+Virág Máté;3067 Garáb, Apáczai Csere János utca 51;6559196;MobilNet
+Surány Alex;7334 Köblény, Szilágyi Erzsébet fasor 9;7366787;SMSMax
+Boros József;9312 Szilsárkány, Wesselényi utca 70;3835035;MobilNet
+Kozma István;8400 Ajka, Izabella utca 64;5897811;SMSMax
+Márton Pál;3450 Mezőcsát, Dózsa György út 84;5812236;SMSMax
+László Liliána;2657 Rétság, Hegedűs Gyula utca 82;3746344;MobilNet
+Vörös Fruzsina;3714 Megyaszó, Szent Gellért tér 42;2363425;Alap
+Molnár Gréta;4823 Nagydobos, Bem tér 70;6354135;SMSMax
+Katona Renáta;3578 Kiscsécs, Szent Gellért tér 96;1614977;MobilNet
+Csatár Erika;4765 Komlódfalu, Tompa utca 26;8884506;Alap
+Dobos Judit;4220 Hajdúböszörmény, Tompa utca 22;5880714;SMSMax
+Csonka Tamara;8888 Budafa, Csavargyár utca 6;8361932;MobilNet
+Máté Erzsébet;6729 Szeged, Nagytétényi út 82;5410376;MobilNet
+Boros Dorina Mária;3352 Feldebrő, Erzsébet tér 93;9755951;SMSMax
+Balogh Dorina;1094 Budapest, Csabai kapu 7;5974055;Alap
